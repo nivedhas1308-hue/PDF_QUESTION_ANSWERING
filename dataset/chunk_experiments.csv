@@ -1,0 +1,4 @@
+chunk_size,chunk_overlap,total_chunks
+300,100,108
+500,100,58
+1000,100,38

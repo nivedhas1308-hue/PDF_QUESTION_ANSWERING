@@ -1,0 +1,483 @@
+query_id,question,rank,retrieved_chunk,similarity_score
+1,What is artificial intelligence?,1,"Artificial Intelligence Study Guide
+Page 5 of 20
+Artificial Intelligence, Machine Learning, and Deep
+Learning
+Artificial Intelligence is the broad field of making computer systems perform tasks associated with
+intelligence. Machine learning (ML) is a subfield of AI in which systems learn patterns from data rather
+than relying only on manually written rules.
+Deep learning is a subfield of machine learning that uses neural networks with many layers. These",0.3405774985343857
+1,What is artificial intelligence?,2,"Artificial Intelligence Study Guide
+Page 1 of 20
+ ARTIFICIAL INTELLIGENCE
+A 20-Page Introductory Study Guide
+ Concepts  Methods  Applications  Responsible Use
+Purpose
+A concise learning resource for exploring artificial intelligence, machine learning, language models,
+semantic search, and retrieval-augmented generation.
+ Prepared as a sample document for PDF question-answering practice.",0.26648140868527276
+1,What is artificial intelligence?,3,"Artificial Intelligence Study Guide
+Page 4 of 20
+Types and Approaches to AI
+Narrow AI is designed to perform a limited task or a related set of tasks. Examples include
+recommendation systems, face detection, translation tools, and voice assistants. Most AI used in
+everyday products today is narrow AI.
+Artificial General Intelligence (AGI) is a proposed type of AI that could learn and perform a wide range",0.23891824450372795
+1,What is artificial intelligence?,4,"matching terms. RAG: a method that retrieves reference information and supplies it to a generative
+model. Hallucination: generated content that is incorrect or unsupported.
+Review questions: What is the difference between AI and machine learning? How do supervised and
+unsupervised learning differ? Why is data quality important? What is an embedding? How does RAG
+work? Why should AI outputs be checked? What are two ways to reduce bias?",0.22573638367496862
+1,What is artificial intelligence?,5,"Artificial Intelligence Study Guide
+Page 20 of 20
+Glossary and Review Questions
+Artificial Intelligence: the broad field of creating computer systems that perform tasks associated with
+intelligence. Machine Learning: methods that learn patterns from data. Deep Learning: machine
+learning based on multi-layer neural networks.
+Dataset: a collection of examples. Model: a learned representation used to make predictions or",0.22187819993930896
+2,What is machine learning?,1,"Deep learning is a subfield of machine learning that uses neural networks with many layers. These
+networks can learn complex representations from large datasets and are widely used in image, speech,
+language, and multimodal applications.
+Not every AI system uses machine learning, and not every machine-learning model uses deep learning.
+A rule-based expert system is AI but may not learn from data. A decision tree is machine learning but is
+not usually described as deep learning.",0.4459035478604817
+2,What is machine learning?,2,"Artificial Intelligence Study Guide
+Page 5 of 20
+Artificial Intelligence, Machine Learning, and Deep
+Learning
+Artificial Intelligence is the broad field of making computer systems perform tasks associated with
+intelligence. Machine learning (ML) is a subfield of AI in which systems learn patterns from data rather
+than relying only on manually written rules.
+Deep learning is a subfield of machine learning that uses neural networks with many layers. These",0.40260072208867875
+2,What is machine learning?,3,"matching terms. RAG: a method that retrieves reference information and supplies it to a generative
+model. Hallucination: generated content that is incorrect or unsupported.
+Review questions: What is the difference between AI and machine learning? How do supervised and
+unsupervised learning differ? Why is data quality important? What is an embedding? How does RAG
+work? Why should AI outputs be checked? What are two ways to reduce bias?",0.33381783767807177
+2,What is machine learning?,4,"Artificial Intelligence Study Guide
+Page 20 of 20
+Glossary and Review Questions
+Artificial Intelligence: the broad field of creating computer systems that perform tasks associated with
+intelligence. Machine Learning: methods that learn patterns from data. Deep Learning: machine
+learning based on multi-layer neural networks.
+Dataset: a collection of examples. Model: a learned representation used to make predictions or",0.24648280339000034
+2,What is machine learning?,5,"Artificial Intelligence Study Guide
+Page 7 of 20
+Algorithms and Learning Methods
+An algorithm is a defined procedure for solving a problem. In machine learning, an algorithm uses data
+to fit a model. The model then applies learned patterns to new inputs.
+Supervised learning uses labeled examples. For instance, a model can learn to classify emails as spam
+or not spam from messages that already have labels. Common supervised tasks include classification
+and regression.",0.17799206048450128
+3,What is deep learning?,1,"Deep learning is a subfield of machine learning that uses neural networks with many layers. These
+networks can learn complex representations from large datasets and are widely used in image, speech,
+language, and multimodal applications.
+Not every AI system uses machine learning, and not every machine-learning model uses deep learning.
+A rule-based expert system is AI but may not learn from data. A decision tree is machine learning but is
+not usually described as deep learning.",0.43421686568439866
+3,What is deep learning?,2,"Artificial Intelligence Study Guide
+Page 5 of 20
+Artificial Intelligence, Machine Learning, and Deep
+Learning
+Artificial Intelligence is the broad field of making computer systems perform tasks associated with
+intelligence. Machine learning (ML) is a subfield of AI in which systems learn patterns from data rather
+than relying only on manually written rules.
+Deep learning is a subfield of machine learning that uses neural networks with many layers. These",0.3758652814519222
+3,What is deep learning?,3,"matching terms. RAG: a method that retrieves reference information and supplies it to a generative
+model. Hallucination: generated content that is incorrect or unsupported.
+Review questions: What is the difference between AI and machine learning? How do supervised and
+unsupervised learning differ? Why is data quality important? What is an embedding? How does RAG
+work? Why should AI outputs be checked? What are two ways to reduce bias?",0.264460345073441
+3,What is deep learning?,4,"Artificial Intelligence Study Guide
+Page 20 of 20
+Glossary and Review Questions
+Artificial Intelligence: the broad field of creating computer systems that perform tasks associated with
+intelligence. Machine Learning: methods that learn patterns from data. Deep Learning: machine
+learning based on multi-layer neural networks.
+Dataset: a collection of examples. Model: a learned representation used to make predictions or",0.2039429359895965
+3,What is deep learning?,5,"data, and methods were often insufficient for ambitious goals.
+From the 2000s onward, larger datasets, faster processors, graphics processing units, and improved
+algorithms helped machine learning advance. Deep learning made major progress in image
+recognition, speech processing, translation, and generative AI.
+Think about it: Identify one real-world example of this topic and consider what could make its output
+inaccurate.",0.19117366652788043
+4,What are neural networks?,1,"how changes in weights affect the loss, while an optimization method updates the weights.
+Deep neural networks contain multiple layers and can learn increasingly complex patterns.
+Convolutional neural networks have been widely used for image tasks, while recurrent networks and
+transformers have been used for sequence and language tasks.
+Deep learning can be powerful, but it often requires substantial data and computing resources. Its",0.2974435718423998
+4,What are neural networks?,2,"Artificial Intelligence Study Guide
+Page 9 of 20
+Neural Networks and Deep Learning
+A neural network is a machine-learning model made of connected computational units often called
+neurons. These units are arranged in layers. Each connection has a weight, and each unit applies a
+mathematical operation to its inputs.
+During training, the network adjusts its weights to reduce prediction error. Backpropagation calculates",0.2440984018635495
+4,What are neural networks?,3,"Deep learning is a subfield of machine learning that uses neural networks with many layers. These
+networks can learn complex representations from large datasets and are widely used in image, speech,
+language, and multimodal applications.
+Not every AI system uses machine learning, and not every machine-learning model uses deep learning.
+A rule-based expert system is AI but may not learn from data. A decision tree is machine learning but is
+not usually described as deep learning.",0.19991432447510113
+4,What are neural networks?,4,"not usually described as deep learning.
+Understanding this relationship helps people choose accurate terms when describing software. The
+terms are connected, but they are not interchangeable.
+Think about it: Identify one real-world example of this topic and consider what could make its output
+inaccurate.",0.1720878663544499
+4,What are neural networks?,5,"Artificial Intelligence Study Guide
+Page 20 of 20
+Glossary and Review Questions
+Artificial Intelligence: the broad field of creating computer systems that perform tasks associated with
+intelligence. Machine Learning: methods that learn patterns from data. Deep Learning: machine
+learning based on multi-layer neural networks.
+Dataset: a collection of examples. Model: a learned representation used to make predictions or",0.15663982953235064
+5,What is natural language processing?,1,"Artificial Intelligence Study Guide
+Page 10 of 20
+Natural Language Processing
+Natural Language Processing (NLP) is the area of AI focused on working with human language. NLP
+systems process written text or spoken language to extract information, classify content, translate,
+summarize, or generate responses.
+Common NLP tasks include tokenization, sentiment analysis, named-entity recognition, language
+detection, machine translation, question answering, and text summarization.",0.4808843272616757
+5,What is natural language processing?,2,"data, and methods were often insufficient for ambitious goals.
+From the 2000s onward, larger datasets, faster processors, graphics processing units, and improved
+algorithms helped machine learning advance. Deep learning made major progress in image
+recognition, speech processing, translation, and generative AI.
+Think about it: Identify one real-world example of this topic and consider what could make its output
+inaccurate.",0.2115749417457964
+5,What is natural language processing?,3,"matching terms. RAG: a method that retrieves reference information and supplies it to a generative
+model. Hallucination: generated content that is incorrect or unsupported.
+Review questions: What is the difference between AI and machine learning? How do supervised and
+unsupervised learning differ? Why is data quality important? What is an embedding? How does RAG
+work? Why should AI outputs be checked? What are two ways to reduce bias?",0.12608539730871862
+5,What is natural language processing?,4,"Artificial Intelligence Study Guide
+Page 11 of 20
+Large Language Models and Generative AI
+A large language model (LLM) is a neural network trained on large amounts of text to model language
+patterns. Many LLMs use the transformer architecture and predict likely next tokens based on the
+context they receive.
+Generative AI refers to systems that create new content. Depending on the model, generated content",0.10767187851571669
+5,What is natural language processing?,5,"can generate fluent language or identify objects while still making errors, missing context, or producing
+unsupported information.
+Think about it: Identify one real-world example of this topic and consider what could make its output
+inaccurate.",0.08651304830998663
+6,What is supervised learning?,1,"matching terms. RAG: a method that retrieves reference information and supplies it to a generative
+model. Hallucination: generated content that is incorrect or unsupported.
+Review questions: What is the difference between AI and machine learning? How do supervised and
+unsupervised learning differ? Why is data quality important? What is an embedding? How does RAG
+work? Why should AI outputs be checked? What are two ways to reduce bias?",0.33311938970594945
+6,What is supervised learning?,2,"Artificial Intelligence Study Guide
+Page 7 of 20
+Algorithms and Learning Methods
+An algorithm is a defined procedure for solving a problem. In machine learning, an algorithm uses data
+to fit a model. The model then applies learned patterns to new inputs.
+Supervised learning uses labeled examples. For instance, a model can learn to classify emails as spam
+or not spam from messages that already have labels. Common supervised tasks include classification
+and regression.",0.31482230218045426
+6,What is supervised learning?,3,"Deep learning is a subfield of machine learning that uses neural networks with many layers. These
+networks can learn complex representations from large datasets and are widely used in image, speech,
+language, and multimodal applications.
+Not every AI system uses machine learning, and not every machine-learning model uses deep learning.
+A rule-based expert system is AI but may not learn from data. A decision tree is machine learning but is
+not usually described as deep learning.",0.23087302613450478
+6,What is supervised learning?,4,"Artificial Intelligence Study Guide
+Page 5 of 20
+Artificial Intelligence, Machine Learning, and Deep
+Learning
+Artificial Intelligence is the broad field of making computer systems perform tasks associated with
+intelligence. Machine learning (ML) is a subfield of AI in which systems learn patterns from data rather
+than relying only on manually written rules.
+Deep learning is a subfield of machine learning that uses neural networks with many layers. These",0.20606869329096006
+6,What is supervised learning?,5,"Artificial Intelligence Study Guide
+Page 20 of 20
+Glossary and Review Questions
+Artificial Intelligence: the broad field of creating computer systems that perform tasks associated with
+intelligence. Machine Learning: methods that learn patterns from data. Deep Learning: machine
+learning based on multi-layer neural networks.
+Dataset: a collection of examples. Model: a learned representation used to make predictions or",0.10380916277605368
+7,What is unsupervised learning?,1,"matching terms. RAG: a method that retrieves reference information and supplies it to a generative
+model. Hallucination: generated content that is incorrect or unsupported.
+Review questions: What is the difference between AI and machine learning? How do supervised and
+unsupervised learning differ? Why is data quality important? What is an embedding? How does RAG
+work? Why should AI outputs be checked? What are two ways to reduce bias?",0.33311938970594945
+7,What is unsupervised learning?,2,"Deep learning is a subfield of machine learning that uses neural networks with many layers. These
+networks can learn complex representations from large datasets and are widely used in image, speech,
+language, and multimodal applications.
+Not every AI system uses machine learning, and not every machine-learning model uses deep learning.
+A rule-based expert system is AI but may not learn from data. A decision tree is machine learning but is
+not usually described as deep learning.",0.23087302613450478
+7,What is unsupervised learning?,3,"Artificial Intelligence Study Guide
+Page 5 of 20
+Artificial Intelligence, Machine Learning, and Deep
+Learning
+Artificial Intelligence is the broad field of making computer systems perform tasks associated with
+intelligence. Machine learning (ML) is a subfield of AI in which systems learn patterns from data rather
+than relying only on manually written rules.
+Deep learning is a subfield of machine learning that uses neural networks with many layers. These",0.20606869329096006
+7,What is unsupervised learning?,4,"and regression.
+Unsupervised learning works with data that has no supplied target labels. It can identify groups,
+structures, or unusual records. Clustering is a common example, such as grouping customers with
+similar purchasing patterns.
+Reinforcement learning trains an agent through interaction with an environment. The agent receives
+rewards or penalties and learns a strategy that aims to maximize long-term reward. It is used in
+research on robotics, games, and control.",0.19529206177771014
+7,What is unsupervised learning?,5,"Artificial Intelligence Study Guide
+Page 20 of 20
+Glossary and Review Questions
+Artificial Intelligence: the broad field of creating computer systems that perform tasks associated with
+intelligence. Machine Learning: methods that learn patterns from data. Deep Learning: machine
+learning based on multi-layer neural networks.
+Dataset: a collection of examples. Model: a learned representation used to make predictions or",0.10380916277605368
+8,What is reinforcement learning?,1,"Deep learning is a subfield of machine learning that uses neural networks with many layers. These
+networks can learn complex representations from large datasets and are widely used in image, speech,
+language, and multimodal applications.
+Not every AI system uses machine learning, and not every machine-learning model uses deep learning.
+A rule-based expert system is AI but may not learn from data. A decision tree is machine learning but is
+not usually described as deep learning.",0.2176501391136009
+8,What is reinforcement learning?,2,"matching terms. RAG: a method that retrieves reference information and supplies it to a generative
+model. Hallucination: generated content that is incorrect or unsupported.
+Review questions: What is the difference between AI and machine learning? How do supervised and
+unsupervised learning differ? Why is data quality important? What is an embedding? How does RAG
+work? Why should AI outputs be checked? What are two ways to reduce bias?",0.2118117411893935
+8,What is reinforcement learning?,3,"and regression.
+Unsupervised learning works with data that has no supplied target labels. It can identify groups,
+structures, or unusual records. Clustering is a common example, such as grouping customers with
+similar purchasing patterns.
+Reinforcement learning trains an agent through interaction with an environment. The agent receives
+rewards or penalties and learns a strategy that aims to maximize long-term reward. It is used in
+research on robotics, games, and control.",0.2046118850472522
+8,What is reinforcement learning?,4,"Artificial Intelligence Study Guide
+Page 5 of 20
+Artificial Intelligence, Machine Learning, and Deep
+Learning
+Artificial Intelligence is the broad field of making computer systems perform tasks associated with
+intelligence. Machine learning (ML) is a subfield of AI in which systems learn patterns from data rather
+than relying only on manually written rules.
+Deep learning is a subfield of machine learning that uses neural networks with many layers. These",0.1942664351599292
+8,What is reinforcement learning?,5,"Artificial Intelligence Study Guide
+Page 20 of 20
+Glossary and Review Questions
+Artificial Intelligence: the broad field of creating computer systems that perform tasks associated with
+intelligence. Machine Learning: methods that learn patterns from data. Deep Learning: machine
+learning based on multi-layer neural networks.
+Dataset: a collection of examples. Model: a learned representation used to make predictions or",0.09786365734345853
+9,What are the applications of AI?,1,"not usually described as deep learning.
+Understanding this relationship helps people choose accurate terms when describing software. The
+terms are connected, but they are not interchangeable.
+Think about it: Identify one real-world example of this topic and consider what could make its output
+inaccurate.",0.20850190854840459
+9,What are the applications of AI?,2,"matching terms. RAG: a method that retrieves reference information and supplies it to a generative
+model. Hallucination: generated content that is incorrect or unsupported.
+Review questions: What is the difference between AI and machine learning? How do supervised and
+unsupervised learning differ? Why is data quality important? What is an embedding? How does RAG
+work? Why should AI outputs be checked? What are two ways to reduce bias?",0.18044508214821017
+9,What are the applications of AI?,3,"Artificial Intelligence Study Guide
+Page 6 of 20
+Data: The Fuel of AI
+Data provides examples from which many AI systems learn. Data may include numbers, text, images,
+audio, video, sensor readings, or records of user activity. The format and quality of the data influence
+what a model can learn.
+Useful datasets should be relevant to the task, sufficiently representative, and collected with
+appropriate permission. Missing values, duplicate records, incorrect labels, and unbalanced samples",0.15654117929697703
+9,What are the applications of AI?,4,"Artificial Intelligence Study Guide
+Page 13 of 20
+AI Applications in Everyday Life
+AI is embedded in many familiar services. Email platforms use classifiers to detect spam, streaming
+services recommend content, maps estimate travel routes, and online stores rank products that may
+interest customers.
+Smartphones use AI for camera enhancement, speech interfaces, predictive typing, translation, and",0.15196196998427353
+9,What are the applications of AI?,5,"Deep learning is a subfield of machine learning that uses neural networks with many layers. These
+networks can learn complex representations from large datasets and are widely used in image, speech,
+language, and multimodal applications.
+Not every AI system uses machine learning, and not every machine-learning model uses deep learning.
+A rule-based expert system is AI but may not learn from data. A decision tree is machine learning but is
+not usually described as deep learning.",0.14386859151496176
+10,What is data science?,1,"matching terms. RAG: a method that retrieves reference information and supplies it to a generative
+model. Hallucination: generated content that is incorrect or unsupported.
+Review questions: What is the difference between AI and machine learning? How do supervised and
+unsupervised learning differ? Why is data quality important? What is an embedding? How does RAG
+work? Why should AI outputs be checked? What are two ways to reduce bias?",0.30735192290868035
+10,What is data science?,2,"Artificial Intelligence Study Guide
+Page 6 of 20
+Data: The Fuel of AI
+Data provides examples from which many AI systems learn. Data may include numbers, text, images,
+audio, video, sensor readings, or records of user activity. The format and quality of the data influence
+what a model can learn.
+Useful datasets should be relevant to the task, sufficiently representative, and collected with
+appropriate permission. Missing values, duplicate records, incorrect labels, and unbalanced samples",0.19311842505736956
+10,What is data science?,3,"Evaluation should use representative test data and include analysis of failure cases. Performance
+should also be monitored after deployment because data and user behavior can change over time.
+Think about it: Identify one real-world example of this topic and consider what could make its output
+inaccurate.",0.16585263583191007
+10,What is data science?,4,"Data privacy and security matter throughout the process. Personal information should be handled
+lawfully and carefully, access should be limited, and sensitive data should not be collected without a
+valid reason.
+Think about it: Identify one real-world example of this topic and consider what could make its output
+inaccurate.",0.15342854149396903
+10,What is data science?,5,"camera angles, languages, accents, and populations that were underrepresented in training data.
+These systems should be evaluated in the environments where they will be used. Human review is
+especially important when errors could affect safety, access to services, or important decisions.
+Think about it: Identify one real-world example of this topic and consider what could make its output
+inaccurate.",0.14421331464457188
+11,What are training datasets?,1,"Artificial Intelligence Study Guide
+Page 8 of 20
+How Machine Learning Models Are Trained
+Training begins with a clearly defined problem and a dataset. The data is prepared and divided so that
+the model can learn from one portion and be evaluated on separate examples.
+During training, a model makes predictions and compares them with target values when labels are
+available. A loss function measures prediction error. An optimizer updates model parameters to reduce
+that loss.",0.20396966316911513
+11,What are training datasets?,2,"not usually described as deep learning.
+Understanding this relationship helps people choose accurate terms when describing software. The
+terms are connected, but they are not interchangeable.
+Think about it: Identify one real-world example of this topic and consider what could make its output
+inaccurate.",0.16873561484246405
+11,What are training datasets?,3,"data, and methods were often insufficient for ambitious goals.
+From the 2000s onward, larger datasets, faster processors, graphics processing units, and improved
+algorithms helped machine learning advance. Deep learning made major progress in image
+recognition, speech processing, translation, and generative AI.
+Think about it: Identify one real-world example of this topic and consider what could make its output
+inaccurate.",0.12390467655105655
+11,What are training datasets?,4,"matching terms. RAG: a method that retrieves reference information and supplies it to a generative
+model. Hallucination: generated content that is incorrect or unsupported.
+Review questions: What is the difference between AI and machine learning? How do supervised and
+unsupervised learning differ? Why is data quality important? What is an embedding? How does RAG
+work? Why should AI outputs be checked? What are two ways to reduce bias?",0.12279671166607554
+11,What are training datasets?,5,"Artificial Intelligence Study Guide
+Page 6 of 20
+Data: The Fuel of AI
+Data provides examples from which many AI systems learn. Data may include numbers, text, images,
+audio, video, sensor readings, or records of user activity. The format and quality of the data influence
+what a model can learn.
+Useful datasets should be relevant to the task, sufficiently representative, and collected with
+appropriate permission. Missing values, duplicate records, incorrect labels, and unbalanced samples",0.10909239689489876
+12,What is a machine learning model?,1,"Deep learning is a subfield of machine learning that uses neural networks with many layers. These
+networks can learn complex representations from large datasets and are widely used in image, speech,
+language, and multimodal applications.
+Not every AI system uses machine learning, and not every machine-learning model uses deep learning.
+A rule-based expert system is AI but may not learn from data. A decision tree is machine learning but is
+not usually described as deep learning.",0.42513026221635575
+12,What is a machine learning model?,2,"Artificial Intelligence Study Guide
+Page 5 of 20
+Artificial Intelligence, Machine Learning, and Deep
+Learning
+Artificial Intelligence is the broad field of making computer systems perform tasks associated with
+intelligence. Machine learning (ML) is a subfield of AI in which systems learn patterns from data rather
+than relying only on manually written rules.
+Deep learning is a subfield of machine learning that uses neural networks with many layers. These",0.36017086775730467
+12,What is a machine learning model?,3,"matching terms. RAG: a method that retrieves reference information and supplies it to a generative
+model. Hallucination: generated content that is incorrect or unsupported.
+Review questions: What is the difference between AI and machine learning? How do supervised and
+unsupervised learning differ? Why is data quality important? What is an embedding? How does RAG
+work? Why should AI outputs be checked? What are two ways to reduce bias?",0.3310205036228653
+12,What is a machine learning model?,4,"Artificial Intelligence Study Guide
+Page 20 of 20
+Glossary and Review Questions
+Artificial Intelligence: the broad field of creating computer systems that perform tasks associated with
+intelligence. Machine Learning: methods that learn patterns from data. Deep Learning: machine
+learning based on multi-layer neural networks.
+Dataset: a collection of examples. Model: a learned representation used to make predictions or",0.260088484045587
+12,What is a machine learning model?,5,"Artificial Intelligence Study Guide
+Page 7 of 20
+Algorithms and Learning Methods
+An algorithm is a defined procedure for solving a problem. In machine learning, an algorithm uses data
+to fit a model. The model then applies learned patterns to new inputs.
+Supervised learning uses labeled examples. For instance, a model can learn to classify emails as spam
+or not spam from messages that already have labels. Common supervised tasks include classification
+and regression.",0.25376307892057864
+13,What is computer vision?,1,"Artificial Intelligence Study Guide
+Page 12 of 20
+Computer Vision and Speech Recognition
+Computer vision enables computers to analyze images and video. Applications include object
+detection, image classification, medical-image support, quality inspection, document scanning, and
+assistance for autonomous machines.
+Speech recognition converts spoken language into text. It is used in dictation, captions, voice",0.41303670571462225
+13,What is computer vision?,2,"matching terms. RAG: a method that retrieves reference information and supplies it to a generative
+model. Hallucination: generated content that is incorrect or unsupported.
+Review questions: What is the difference between AI and machine learning? How do supervised and
+unsupervised learning differ? Why is data quality important? What is an embedding? How does RAG
+work? Why should AI outputs be checked? What are two ways to reduce bias?",0.1383483833747971
+13,What is computer vision?,3,"Artificial Intelligence Study Guide
+Page 5 of 20
+Artificial Intelligence, Machine Learning, and Deep
+Learning
+Artificial Intelligence is the broad field of making computer systems perform tasks associated with
+intelligence. Machine learning (ML) is a subfield of AI in which systems learn patterns from data rather
+than relying only on manually written rules.
+Deep learning is a subfield of machine learning that uses neural networks with many layers. These",0.13007567597197356
+13,What is computer vision?,4,"Artificial Intelligence Study Guide
+Page 20 of 20
+Glossary and Review Questions
+Artificial Intelligence: the broad field of creating computer systems that perform tasks associated with
+intelligence. Machine Learning: methods that learn patterns from data. Deep Learning: machine
+learning based on multi-layer neural networks.
+Dataset: a collection of examples. Model: a learned representation used to make predictions or",0.093904736580187
+13,What is computer vision?,5,"model.
+Think about it: Identify one real-world example of this topic and consider what could make its output
+inaccurate.",0.07147628059682477
+14,What are the benefits of AI?,1,"strengths and limitations of AI.
+Responsible progress requires collaboration among researchers, developers, educators, policymakers,
+organizations, and the public. Clear standards and ongoing evaluation can help ensure that AI benefits
+people.
+Think about it: Identify one real-world example of this topic and consider what could make its output
+inaccurate.",0.2628161262044605
+14,What are the benefits of AI?,2,"not usually described as deep learning.
+Understanding this relationship helps people choose accurate terms when describing software. The
+terms are connected, but they are not interchangeable.
+Think about it: Identify one real-world example of this topic and consider what could make its output
+inaccurate.",0.18768050038604078
+14,What are the benefits of AI?,3,"matching terms. RAG: a method that retrieves reference information and supplies it to a generative
+model. Hallucination: generated content that is incorrect or unsupported.
+Review questions: What is the difference between AI and machine learning? How do supervised and
+unsupervised learning differ? Why is data quality important? What is an embedding? How does RAG
+work? Why should AI outputs be checked? What are two ways to reduce bias?",0.1624254835150067
+14,What are the benefits of AI?,4,"Artificial Intelligence Study Guide
+Page 6 of 20
+Data: The Fuel of AI
+Data provides examples from which many AI systems learn. Data may include numbers, text, images,
+audio, video, sensor readings, or records of user activity. The format and quality of the data influence
+what a model can learn.
+Useful datasets should be relevant to the task, sufficiently representative, and collected with
+appropriate permission. Missing values, duplicate records, incorrect labels, and unbalanced samples",0.14090867112929548
+14,What are the benefits of AI?,5,"Artificial Intelligence Study Guide
+Page 8 of 20
+How Machine Learning Models Are Trained
+Training begins with a clearly defined problem and a dataset. The data is prepared and divided so that
+the model can learn from one portion and be evaluated on separate examples.
+During training, a model makes predictions and compares them with target values when labels are
+available. A loss function measures prediction error. An optimizer updates model parameters to reduce
+that loss.",0.1294877386776537
+15,What are the challenges of AI?,1,"Artificial Intelligence Study Guide
+Page 18 of 20
+Limitations and Challenges of AI
+AI systems can make mistakes, especially when inputs differ from the data or conditions used during
+development. A model trained on one language, location, or environment may perform poorly in
+another.
+Some systems are difficult to explain. Complex models may provide useful predictions without making it
+easy to understand which factors drove a particular result. Explainability tools can help, but they do not",0.22704782060403048
+15,What are the challenges of AI?,2,"not usually described as deep learning.
+Understanding this relationship helps people choose accurate terms when describing software. The
+terms are connected, but they are not interchangeable.
+Think about it: Identify one real-world example of this topic and consider what could make its output
+inaccurate.",0.18768050038604078
+15,What are the challenges of AI?,3,"matching terms. RAG: a method that retrieves reference information and supplies it to a generative
+model. Hallucination: generated content that is incorrect or unsupported.
+Review questions: What is the difference between AI and machine learning? How do supervised and
+unsupervised learning differ? Why is data quality important? What is an embedding? How does RAG
+work? Why should AI outputs be checked? What are two ways to reduce bias?",0.1624254835150067
+15,What are the challenges of AI?,4,"Artificial Intelligence Study Guide
+Page 6 of 20
+Data: The Fuel of AI
+Data provides examples from which many AI systems learn. Data may include numbers, text, images,
+audio, video, sensor readings, or records of user activity. The format and quality of the data influence
+what a model can learn.
+Useful datasets should be relevant to the task, sufficiently representative, and collected with
+appropriate permission. Missing values, duplicate records, incorrect labels, and unbalanced samples",0.14090867112929548
+15,What are the challenges of AI?,5,"Artificial Intelligence Study Guide
+Page 8 of 20
+How Machine Learning Models Are Trained
+Training begins with a clearly defined problem and a dataset. The data is prepared and divided so that
+the model can learn from one portion and be evaluated on separate examples.
+During training, a model makes predictions and compares them with target values when labels are
+available. A loss function measures prediction error. An optimizer updates model parameters to reduce
+that loss.",0.1294877386776537

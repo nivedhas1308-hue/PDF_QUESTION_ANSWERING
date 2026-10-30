@@ -1,0 +1,55 @@
+query_id,question,answer
+1,What is artificial intelligence?,"According to the PDF content, Artificial Intelligence is defined as:
+
+""Artificial Intelligence: the broad field of creating computer systems that perform tasks associated with intelligence."""
+2,What is machine learning?,"According to the PDF content, Machine Learning is a subfield of Artificial Intelligence in which systems learn patterns from data rather than relying only on manually written rules."
+3,What is deep learning?,"According to the PDF content, deep learning is a subfield of machine learning that uses neural networks with many layers."
+4,What are neural networks?,"According to the PDF content, neural networks are ""machine-learning models made of connected computational units often called neurons. These units are arranged in layers. Each connection has a weight, and each unit applies a mathematical operation to its inputs."""
+5,What is natural language processing?,"According to the PDF content, Natural Language Processing (NLP) is the area of AI focused on working with human language, which involves processing written text or spoken language to extract information, classify content, translate, summarize, or generate responses."
+6,What is supervised learning?,"According to the PDF content, supervised learning is a type of machine learning that uses labeled examples. For instance, a model can learn to classify emails as spam or not spam from messages that already have labels. Common supervised tasks include classification and regression."
+7,What is unsupervised learning?,"Unsupervised learning works with data that has no supplied target labels. It can identify groups, structures, or unusual records."
+8,What is reinforcement learning?,"Reinforcement learning is mentioned in the PDF content as a type of learning that trains an agent through interaction with an environment, where the agent receives rewards or penalties and learns a strategy to maximize long-term reward."
+9,What are the applications of AI?,"According to the provided PDF content, AI applications include:
+
+1. Email platforms (classifiers to detect spam)
+2. Streaming services (recommend content)
+3. Maps (estimate travel routes)
+4. Online stores (rank products that may interest customers)
+5. Smartphones (camera enhancement, speech interfaces, predictive typing, translation)
+
+These applications are examples of narrow AI, designed to perform a limited task or a related set of tasks."
+10,What is data science?,"The answer is not available in the provided PDF content. The PDF discusses Artificial Intelligence, Machine Learning, and Deep Learning, but does not define or explain what Data Science is."
+11,What are training datasets?,"The PDF content does not explicitly define what training datasets are. However, it does mention that training begins with a clearly defined problem and a dataset, and that the data is prepared and divided so that the model can learn from one portion and be evaluated on separate examples.
+
+It can be inferred that training datasets are the datasets used to train a machine learning model, but the exact definition is not provided in the PDF content."
+12,What is a machine learning model?,"According to the PDF content, a machine learning model is described as ""a machine-learning model made of connected computational units often called neurons. These units are arranged in layers. Each connection has a weight, and each unit applies a mathematical operation to its inputs."""
+13,What is computer vision?,"According to the PDF content, computer vision is described on Page 12 of 20 as ""Computer vision enables computers to analyze images and video. Applications include object detection, image classification, medical-image support, quality inspection, document scanning, and assistance for autonomous machines."""
+14,What are the benefits of AI?,"The PDF content does not explicitly state the benefits of AI. However, it does provide examples of how AI is used in various fields, such as:
+
+* Analyzing sales patterns and forecasting demand in business
+* Medical-image analysis and clinical decision support in healthcare
+* Recommending content and estimating travel routes in AI applications in everyday life
+
+It also mentions that AI can:
+
+* Detect spam and automate repetitive work
+* Support customer service
+* Estimate travel routes
+* Rank products that may interest customers
+* Enhance camera functionality and speech interfaces in smartphones
+
+Additionally, the content highlights the importance of selecting AI when it is appropriate for the problem, and considering costs, environmental impacts, and energy use."
+15,What are the challenges of AI?,"The challenges of AI are mentioned in the PDF content as:
+
+1. AI systems can make mistakes, especially when inputs differ from the data or conditions used during development.
+2. Complex models may provide useful predictions without making it easy to understand which factors drove a particular result.
+3. Some systems are difficult to explain.
+4. AI performance depends on the quality of its data, the suitability of its algorithm, the computing resources available, and the way success is measured.
+5. A system that performs well in one setting may fail when the environment changes.
+
+Additionally, the PDF content also mentions some broader challenges and limitations of AI, such as:
+
+* AI should be selected when it is appropriate for the problem, and simpler alternatives may be more reliable, affordable, and understandable.
+* AI systems can be expensive to develop and maintain, and their environmental impacts and energy use need consideration.
+* There is a need for collaboration among researchers, developers, educators, policymakers, organizations, and the public to ensure that AI benefits people.
+* Future systems may raise questions about control, accountability, employment, and safety."

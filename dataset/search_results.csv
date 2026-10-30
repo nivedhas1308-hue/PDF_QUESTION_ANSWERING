@@ -1,0 +1,524 @@
+query_id,question,rank,retrieved_chunk,similarity_score
+1,What is artificial intelligence?,1,"Artificial Intelligence Study Guide
+Page 3 of 20
+What Makes a System Intelligent?
+People use the word intelligence to describe abilities such as learning, reasoning, adapting,
+understanding, planning, and communicating. An AI system may demonstrate one or several of these
+abilities without possessing human consciousness or human experiences.
+A system can be evaluated by the task it performs. For example, a spam filter classifies messages, a",0.40375375747680664
+1,What is artificial intelligence?,2,"Artificial Intelligence Study Guide
+Page 5 of 20
+Artificial Intelligence, Machine Learning, and Deep
+Learning
+Artificial Intelligence is the broad field of making computer systems perform tasks associated with
+intelligence. Machine learning (ML) is a subfield of AI in which systems learn patterns from data rather
+than relying only on manually written rules.
+Deep learning is a subfield of machine learning that uses neural networks with many layers. These",0.4256380498409271
+1,What is artificial intelligence?,3,"Artificial Intelligence Study Guide
+Page 20 of 20
+Glossary and Review Questions
+Artificial Intelligence: the broad field of creating computer systems that perform tasks associated with
+intelligence. Machine Learning: methods that learn patterns from data. Deep Learning: machine
+learning based on multi-layer neural networks.
+Dataset: a collection of examples. Model: a learned representation used to make predictions or",0.42830005288124084
+1,What is artificial intelligence?,4,"Artificial Intelligence Study Guide
+Page 2 of 20
+A Brief History of Artificial Intelligence
+The idea of artificial beings and mechanical reasoning appears in stories and philosophy long before
+modern computers. AI became a formal research area during the middle of the twentieth century, when
+researchers began asking whether machines could carry out reasoning and problem-solving tasks.
+In 1950, Alan Turing proposed a practical discussion of machine intelligence that later became",0.5079366564750671
+1,What is artificial intelligence?,5,"Artificial Intelligence Study Guide
+Page 4 of 20
+Types and Approaches to AI
+Narrow AI is designed to perform a limited task or a related set of tasks. Examples include
+recommendation systems, face detection, translation tools, and voice assistants. Most AI used in
+everyday products today is narrow AI.
+Artificial General Intelligence (AGI) is a proposed type of AI that could learn and perform a wide range",0.5214403867721558
+2,What is machine learning?,1,"Artificial Intelligence Study Guide
+Page 5 of 20
+Artificial Intelligence, Machine Learning, and Deep
+Learning
+Artificial Intelligence is the broad field of making computer systems perform tasks associated with
+intelligence. Machine learning (ML) is a subfield of AI in which systems learn patterns from data rather
+than relying only on manually written rules.
+Deep learning is a subfield of machine learning that uses neural networks with many layers. These",0.4570006728172302
+2,What is machine learning?,2,"Deep learning is a subfield of machine learning that uses neural networks with many layers. These
+networks can learn complex representations from large datasets and are widely used in image, speech,
+language, and multimodal applications.
+Not every AI system uses machine learning, and not every machine-learning model uses deep learning.
+A rule-based expert system is AI but may not learn from data. A decision tree is machine learning but is
+not usually described as deep learning.",0.5019965767860413
+2,What is machine learning?,3,"Artificial Intelligence Study Guide
+Page 7 of 20
+Algorithms and Learning Methods
+An algorithm is a defined procedure for solving a problem. In machine learning, an algorithm uses data
+to fit a model. The model then applies learned patterns to new inputs.
+Supervised learning uses labeled examples. For instance, a model can learn to classify emails as spam
+or not spam from messages that already have labels. Common supervised tasks include classification
+and regression.",0.5621078014373779
+2,What is machine learning?,4,"Artificial Intelligence Study Guide
+Page 8 of 20
+How Machine Learning Models Are Trained
+Training begins with a clearly defined problem and a dataset. The data is prepared and divided so that
+the model can learn from one portion and be evaluated on separate examples.
+During training, a model makes predictions and compares them with target values when labels are
+available. A loss function measures prediction error. An optimizer updates model parameters to reduce
+that loss.",0.5674746036529541
+2,What is machine learning?,5,"Artificial Intelligence Study Guide
+Page 20 of 20
+Glossary and Review Questions
+Artificial Intelligence: the broad field of creating computer systems that perform tasks associated with
+intelligence. Machine Learning: methods that learn patterns from data. Deep Learning: machine
+learning based on multi-layer neural networks.
+Dataset: a collection of examples. Model: a learned representation used to make predictions or",0.5809094309806824
+3,What is deep learning?,1,"Deep learning is a subfield of machine learning that uses neural networks with many layers. These
+networks can learn complex representations from large datasets and are widely used in image, speech,
+language, and multimodal applications.
+Not every AI system uses machine learning, and not every machine-learning model uses deep learning.
+A rule-based expert system is AI but may not learn from data. A decision tree is machine learning but is
+not usually described as deep learning.",0.2908950746059418
+3,What is deep learning?,2,"not usually described as deep learning.
+Understanding this relationship helps people choose accurate terms when describing software. The
+terms are connected, but they are not interchangeable.
+Think about it: Identify one real-world example of this topic and consider what could make its output
+inaccurate.",0.4001908302307129
+3,What is deep learning?,3,"Artificial Intelligence Study Guide
+Page 5 of 20
+Artificial Intelligence, Machine Learning, and Deep
+Learning
+Artificial Intelligence is the broad field of making computer systems perform tasks associated with
+intelligence. Machine learning (ML) is a subfield of AI in which systems learn patterns from data rather
+than relying only on manually written rules.
+Deep learning is a subfield of machine learning that uses neural networks with many layers. These",0.43845853209495544
+3,What is deep learning?,4,"Deep learning can be powerful, but it often requires substantial data and computing resources. Its
+internal representations can also be difficult to interpret, making careful testing and monitoring
+important.
+Think about it: Identify one real-world example of this topic and consider what could make its output
+inaccurate.",0.4895888566970825
+3,What is deep learning?,5,"Artificial Intelligence Study Guide
+Page 9 of 20
+Neural Networks and Deep Learning
+A neural network is a machine-learning model made of connected computational units often called
+neurons. These units are arranged in layers. Each connection has a weight, and each unit applies a
+mathematical operation to its inputs.
+During training, the network adjusts its weights to reduce prediction error. Backpropagation calculates",0.5197741985321045
+4,What are neural networks?,1,"Artificial Intelligence Study Guide
+Page 9 of 20
+Neural Networks and Deep Learning
+A neural network is a machine-learning model made of connected computational units often called
+neurons. These units are arranged in layers. Each connection has a weight, and each unit applies a
+mathematical operation to its inputs.
+During training, the network adjusts its weights to reduce prediction error. Backpropagation calculates",0.3744032382965088
+4,What are neural networks?,2,"Deep learning is a subfield of machine learning that uses neural networks with many layers. These
+networks can learn complex representations from large datasets and are widely used in image, speech,
+language, and multimodal applications.
+Not every AI system uses machine learning, and not every machine-learning model uses deep learning.
+A rule-based expert system is AI but may not learn from data. A decision tree is machine learning but is
+not usually described as deep learning.",0.5510286092758179
+4,What are neural networks?,3,"Artificial Intelligence Study Guide
+Page 5 of 20
+Artificial Intelligence, Machine Learning, and Deep
+Learning
+Artificial Intelligence is the broad field of making computer systems perform tasks associated with
+intelligence. Machine learning (ML) is a subfield of AI in which systems learn patterns from data rather
+than relying only on manually written rules.
+Deep learning is a subfield of machine learning that uses neural networks with many layers. These",0.6221659779548645
+4,What are neural networks?,4,"Artificial Intelligence Study Guide
+Page 20 of 20
+Glossary and Review Questions
+Artificial Intelligence: the broad field of creating computer systems that perform tasks associated with
+intelligence. Machine Learning: methods that learn patterns from data. Deep Learning: machine
+learning based on multi-layer neural networks.
+Dataset: a collection of examples. Model: a learned representation used to make predictions or",0.6741390228271484
+4,What are neural networks?,5,"how changes in weights affect the loss, while an optimization method updates the weights.
+Deep neural networks contain multiple layers and can learn increasingly complex patterns.
+Convolutional neural networks have been widely used for image tasks, while recurrent networks and
+transformers have been used for sequence and language tasks.
+Deep learning can be powerful, but it often requires substantial data and computing resources. Its",0.6976911425590515
+5,What is natural language processing?,1,"Artificial Intelligence Study Guide
+Page 10 of 20
+Natural Language Processing
+Natural Language Processing (NLP) is the area of AI focused on working with human language. NLP
+systems process written text or spoken language to extract information, classify content, translate,
+summarize, or generate responses.
+Common NLP tasks include tokenization, sentiment analysis, named-entity recognition, language
+detection, machine translation, question answering, and text summarization.",0.34224674105644226
+5,What is natural language processing?,2,"detection, machine translation, question answering, and text summarization.
+Language is difficult for computers because words can have multiple meanings, context changes
+interpretation, and people use idioms, abbreviations, spelling variations, and incomplete sentences.
+Modern NLP often uses machine-learning models trained on large collections of text. Even advanced
+systems can misunderstand context or generate inaccurate statements, so important outputs should be
+checked.",0.6601158976554871
+5,What is natural language processing?,3,"Artificial Intelligence Study Guide
+Page 11 of 20
+Large Language Models and Generative AI
+A large language model (LLM) is a neural network trained on large amounts of text to model language
+patterns. Many LLMs use the transformer architecture and predict likely next tokens based on the
+context they receive.
+Generative AI refers to systems that create new content. Depending on the model, generated content",0.689521074295044
+5,What is natural language processing?,4,"Artificial Intelligence Study Guide
+Page 7 of 20
+Algorithms and Learning Methods
+An algorithm is a defined procedure for solving a problem. In machine learning, an algorithm uses data
+to fit a model. The model then applies learned patterns to new inputs.
+Supervised learning uses labeled examples. For instance, a model can learn to classify emails as spam
+or not spam from messages that already have labels. Common supervised tasks include classification
+and regression.",0.7502893805503845
+5,What is natural language processing?,5,"Artificial Intelligence Study Guide
+Page 5 of 20
+Artificial Intelligence, Machine Learning, and Deep
+Learning
+Artificial Intelligence is the broad field of making computer systems perform tasks associated with
+intelligence. Machine learning (ML) is a subfield of AI in which systems learn patterns from data rather
+than relying only on manually written rules.
+Deep learning is a subfield of machine learning that uses neural networks with many layers. These",0.7623599171638489
+6,What is supervised learning?,1,"Artificial Intelligence Study Guide
+Page 7 of 20
+Algorithms and Learning Methods
+An algorithm is a defined procedure for solving a problem. In machine learning, an algorithm uses data
+to fit a model. The model then applies learned patterns to new inputs.
+Supervised learning uses labeled examples. For instance, a model can learn to classify emails as spam
+or not spam from messages that already have labels. Common supervised tasks include classification
+and regression.",0.5582349300384521
+6,What is supervised learning?,2,"and regression.
+Unsupervised learning works with data that has no supplied target labels. It can identify groups,
+structures, or unusual records. Clustering is a common example, such as grouping customers with
+similar purchasing patterns.
+Reinforcement learning trains an agent through interaction with an environment. The agent receives
+rewards or penalties and learns a strategy that aims to maximize long-term reward. It is used in
+research on robotics, games, and control.",0.6656396389007568
+6,What is supervised learning?,3,"Artificial Intelligence Study Guide
+Page 5 of 20
+Artificial Intelligence, Machine Learning, and Deep
+Learning
+Artificial Intelligence is the broad field of making computer systems perform tasks associated with
+intelligence. Machine learning (ML) is a subfield of AI in which systems learn patterns from data rather
+than relying only on manually written rules.
+Deep learning is a subfield of machine learning that uses neural networks with many layers. These",0.6821800470352173
+6,What is supervised learning?,4,"Deep learning is a subfield of machine learning that uses neural networks with many layers. These
+networks can learn complex representations from large datasets and are widely used in image, speech,
+language, and multimodal applications.
+Not every AI system uses machine learning, and not every machine-learning model uses deep learning.
+A rule-based expert system is AI but may not learn from data. A decision tree is machine learning but is
+not usually described as deep learning.",0.6882835626602173
+6,What is supervised learning?,5,"Artificial Intelligence Study Guide
+Page 8 of 20
+How Machine Learning Models Are Trained
+Training begins with a clearly defined problem and a dataset. The data is prepared and divided so that
+the model can learn from one portion and be evaluated on separate examples.
+During training, a model makes predictions and compares them with target values when labels are
+available. A loss function measures prediction error. An optimizer updates model parameters to reduce
+that loss.",0.7211642265319824
+7,What is unsupervised learning?,1,"and regression.
+Unsupervised learning works with data that has no supplied target labels. It can identify groups,
+structures, or unusual records. Clustering is a common example, such as grouping customers with
+similar purchasing patterns.
+Reinforcement learning trains an agent through interaction with an environment. The agent receives
+rewards or penalties and learns a strategy that aims to maximize long-term reward. It is used in
+research on robotics, games, and control.",0.5349080562591553
+7,What is unsupervised learning?,2,"Artificial Intelligence Study Guide
+Page 7 of 20
+Algorithms and Learning Methods
+An algorithm is a defined procedure for solving a problem. In machine learning, an algorithm uses data
+to fit a model. The model then applies learned patterns to new inputs.
+Supervised learning uses labeled examples. For instance, a model can learn to classify emails as spam
+or not spam from messages that already have labels. Common supervised tasks include classification
+and regression.",0.7333170771598816
+7,What is unsupervised learning?,3,"Artificial Intelligence Study Guide
+Page 5 of 20
+Artificial Intelligence, Machine Learning, and Deep
+Learning
+Artificial Intelligence is the broad field of making computer systems perform tasks associated with
+intelligence. Machine learning (ML) is a subfield of AI in which systems learn patterns from data rather
+than relying only on manually written rules.
+Deep learning is a subfield of machine learning that uses neural networks with many layers. These",0.7737633585929871
+7,What is unsupervised learning?,4,"Deep learning is a subfield of machine learning that uses neural networks with many layers. These
+networks can learn complex representations from large datasets and are widely used in image, speech,
+language, and multimodal applications.
+Not every AI system uses machine learning, and not every machine-learning model uses deep learning.
+A rule-based expert system is AI but may not learn from data. A decision tree is machine learning but is
+not usually described as deep learning.",0.7896499633789062
+7,What is unsupervised learning?,5,"matching terms. RAG: a method that retrieves reference information and supplies it to a generative
+model. Hallucination: generated content that is incorrect or unsupported.
+Review questions: What is the difference between AI and machine learning? How do supervised and
+unsupervised learning differ? Why is data quality important? What is an embedding? How does RAG
+work? Why should AI outputs be checked? What are two ways to reduce bias?",0.8282195925712585
+8,What is reinforcement learning?,1,"and regression.
+Unsupervised learning works with data that has no supplied target labels. It can identify groups,
+structures, or unusual records. Clustering is a common example, such as grouping customers with
+similar purchasing patterns.
+Reinforcement learning trains an agent through interaction with an environment. The agent receives
+rewards or penalties and learns a strategy that aims to maximize long-term reward. It is used in
+research on robotics, games, and control.",0.471245139837265
+8,What is reinforcement learning?,2,"Artificial Intelligence Study Guide
+Page 7 of 20
+Algorithms and Learning Methods
+An algorithm is a defined procedure for solving a problem. In machine learning, an algorithm uses data
+to fit a model. The model then applies learned patterns to new inputs.
+Supervised learning uses labeled examples. For instance, a model can learn to classify emails as spam
+or not spam from messages that already have labels. Common supervised tasks include classification
+and regression.",0.7267791628837585
+8,What is reinforcement learning?,3,"Deep learning is a subfield of machine learning that uses neural networks with many layers. These
+networks can learn complex representations from large datasets and are widely used in image, speech,
+language, and multimodal applications.
+Not every AI system uses machine learning, and not every machine-learning model uses deep learning.
+A rule-based expert system is AI but may not learn from data. A decision tree is machine learning but is
+not usually described as deep learning.",0.7911707162857056
+8,What is reinforcement learning?,4,"Artificial Intelligence Study Guide
+Page 5 of 20
+Artificial Intelligence, Machine Learning, and Deep
+Learning
+Artificial Intelligence is the broad field of making computer systems perform tasks associated with
+intelligence. Machine learning (ML) is a subfield of AI in which systems learn patterns from data rather
+than relying only on manually written rules.
+Deep learning is a subfield of machine learning that uses neural networks with many layers. These",0.794609546661377
+8,What is reinforcement learning?,5,"Artificial Intelligence Study Guide
+Page 8 of 20
+How Machine Learning Models Are Trained
+Training begins with a clearly defined problem and a dataset. The data is prepared and divided so that
+the model can learn from one portion and be evaluated on separate examples.
+During training, a model makes predictions and compares them with target values when labels are
+available. A loss function measures prediction error. An optimizer updates model parameters to reduce
+that loss.",0.7951014041900635
+9,What are the applications of AI?,1,"Artificial Intelligence Study Guide
+Page 13 of 20
+AI Applications in Everyday Life
+AI is embedded in many familiar services. Email platforms use classifiers to detect spam, streaming
+services recommend content, maps estimate travel routes, and online stores rank products that may
+interest customers.
+Smartphones use AI for camera enhancement, speech interfaces, predictive typing, translation, and",0.38063398003578186
+9,What are the applications of AI?,2,"Artificial Intelligence Study Guide
+Page 14 of 20
+AI in Business, Healthcare, and Education
+Businesses use AI to analyze sales patterns, forecast demand, support customer service, detect
+anomalies, and automate repetitive work. Successful deployment requires clear objectives and
+measurement of business value.
+In healthcare, AI research includes medical-image analysis, clinical decision support, patient",0.3864792585372925
+9,What are the applications of AI?,3,"Artificial Intelligence Study Guide
+Page 4 of 20
+Types and Approaches to AI
+Narrow AI is designed to perform a limited task or a related set of tasks. Examples include
+recommendation systems, face detection, translation tools, and voice assistants. Most AI used in
+everyday products today is narrow AI.
+Artificial General Intelligence (AGI) is a proposed type of AI that could learn and perform a wide range",0.42751532793045044
+9,What are the applications of AI?,4,"solve every problem.
+AI projects can be expensive to develop and maintain. Costs may include data collection, computing
+resources, expert staff, integration, monitoring, and updates. Environmental impacts and energy use
+may also need consideration.
+AI should be selected when it is appropriate for the problem. A simple rule, database query, or
+conventional program may be more reliable, affordable, and understandable than a machine-learning
+model.",0.4507236182689667
+9,What are the applications of AI?,5,"Artificial Intelligence Study Guide
+Page 3 of 20
+What Makes a System Intelligent?
+People use the word intelligence to describe abilities such as learning, reasoning, adapting,
+understanding, planning, and communicating. An AI system may demonstrate one or several of these
+abilities without possessing human consciousness or human experiences.
+A system can be evaluated by the task it performs. For example, a spam filter classifies messages, a",0.45445626974105835
+10,What is data science?,1,"Dataset: a collection of examples. Model: a learned representation used to make predictions or
+generate outputs. Training: the process of adjusting a model using data. Embedding: a numerical
+representation of content. Vector database: a system for storing and searching vectors.
+Semantic search: retrieval based on meaning and vector similarity. Keyword search: retrieval based on
+matching terms. RAG: a method that retrieves reference information and supplies it to a generative",0.8999181985855103
+10,What is data science?,2,"Artificial Intelligence Study Guide
+Page 5 of 20
+Artificial Intelligence, Machine Learning, and Deep
+Learning
+Artificial Intelligence is the broad field of making computer systems perform tasks associated with
+intelligence. Machine learning (ML) is a subfield of AI in which systems learn patterns from data rather
+than relying only on manually written rules.
+Deep learning is a subfield of machine learning that uses neural networks with many layers. These",0.9016833305358887
+10,What is data science?,3,"Artificial Intelligence Study Guide
+Page 20 of 20
+Glossary and Review Questions
+Artificial Intelligence: the broad field of creating computer systems that perform tasks associated with
+intelligence. Machine Learning: methods that learn patterns from data. Deep Learning: machine
+learning based on multi-layer neural networks.
+Dataset: a collection of examples. Model: a learned representation used to make predictions or",0.9124752879142761
+10,What is data science?,4,"not usually described as deep learning.
+Understanding this relationship helps people choose accurate terms when describing software. The
+terms are connected, but they are not interchangeable.
+Think about it: Identify one real-world example of this topic and consider what could make its output
+inaccurate.",0.9317002892494202
+10,What is data science?,5,"Deep learning is a subfield of machine learning that uses neural networks with many layers. These
+networks can learn complex representations from large datasets and are widely used in image, speech,
+language, and multimodal applications.
+Not every AI system uses machine learning, and not every machine-learning model uses deep learning.
+A rule-based expert system is AI but may not learn from data. A decision tree is machine learning but is
+not usually described as deep learning.",0.9442020654678345
+11,What are training datasets?,1,"Dataset: a collection of examples. Model: a learned representation used to make predictions or
+generate outputs. Training: the process of adjusting a model using data. Embedding: a numerical
+representation of content. Vector database: a system for storing and searching vectors.
+Semantic search: retrieval based on meaning and vector similarity. Keyword search: retrieval based on
+matching terms. RAG: a method that retrieves reference information and supplies it to a generative",0.6150165796279907
+11,What are training datasets?,2,"Artificial Intelligence Study Guide
+Page 8 of 20
+How Machine Learning Models Are Trained
+Training begins with a clearly defined problem and a dataset. The data is prepared and divided so that
+the model can learn from one portion and be evaluated on separate examples.
+During training, a model makes predictions and compares them with target values when labels are
+available. A loss function measures prediction error. An optimizer updates model parameters to reduce
+that loss.",0.6383052468299866
+11,What are training datasets?,3,"Artificial Intelligence Study Guide
+Page 6 of 20
+Data: The Fuel of AI
+Data provides examples from which many AI systems learn. Data may include numbers, text, images,
+audio, video, sensor readings, or records of user activity. The format and quality of the data influence
+what a model can learn.
+Useful datasets should be relevant to the task, sufficiently representative, and collected with
+appropriate permission. Missing values, duplicate records, incorrect labels, and unbalanced samples",0.7518182396888733
+11,What are training datasets?,4,"and regression.
+Unsupervised learning works with data that has no supplied target labels. It can identify groups,
+structures, or unusual records. Clustering is a common example, such as grouping customers with
+similar purchasing patterns.
+Reinforcement learning trains an agent through interaction with an environment. The agent receives
+rewards or penalties and learns a strategy that aims to maximize long-term reward. It is used in
+research on robotics, games, and control.",0.7636908292770386
+11,What are training datasets?,5,"that loss.
+Validation data helps compare model settings and detect overfitting. Overfitting occurs when a model
+learns the training examples too closely and performs poorly on new data. Regularization, more
+representative data, and simpler models can help.
+The final test set provides an estimate of performance on unseen examples. It should not be repeatedly
+used to tune the model, because doing so can make the evaluation misleading.",0.7689638733863831
+12,What is a machine learning model?,1,"Artificial Intelligence Study Guide
+Page 8 of 20
+How Machine Learning Models Are Trained
+Training begins with a clearly defined problem and a dataset. The data is prepared and divided so that
+the model can learn from one portion and be evaluated on separate examples.
+During training, a model makes predictions and compares them with target values when labels are
+available. A loss function measures prediction error. An optimizer updates model parameters to reduce
+that loss.",0.42772769927978516
+12,What is a machine learning model?,2,"Artificial Intelligence Study Guide
+Page 7 of 20
+Algorithms and Learning Methods
+An algorithm is a defined procedure for solving a problem. In machine learning, an algorithm uses data
+to fit a model. The model then applies learned patterns to new inputs.
+Supervised learning uses labeled examples. For instance, a model can learn to classify emails as spam
+or not spam from messages that already have labels. Common supervised tasks include classification
+and regression.",0.5242660641670227
+12,What is a machine learning model?,3,"Artificial Intelligence Study Guide
+Page 5 of 20
+Artificial Intelligence, Machine Learning, and Deep
+Learning
+Artificial Intelligence is the broad field of making computer systems perform tasks associated with
+intelligence. Machine learning (ML) is a subfield of AI in which systems learn patterns from data rather
+than relying only on manually written rules.
+Deep learning is a subfield of machine learning that uses neural networks with many layers. These",0.5414136648178101
+12,What is a machine learning model?,4,"Artificial Intelligence Study Guide
+Page 9 of 20
+Neural Networks and Deep Learning
+A neural network is a machine-learning model made of connected computational units often called
+neurons. These units are arranged in layers. Each connection has a weight, and each unit applies a
+mathematical operation to its inputs.
+During training, the network adjusts its weights to reduce prediction error. Backpropagation calculates",0.5553719997406006
+12,What is a machine learning model?,5,"Deep learning is a subfield of machine learning that uses neural networks with many layers. These
+networks can learn complex representations from large datasets and are widely used in image, speech,
+language, and multimodal applications.
+Not every AI system uses machine learning, and not every machine-learning model uses deep learning.
+A rule-based expert system is AI but may not learn from data. A decision tree is machine learning but is
+not usually described as deep learning.",0.5562782883644104
+13,What is computer vision?,1,"Artificial Intelligence Study Guide
+Page 12 of 20
+Computer Vision and Speech Recognition
+Computer vision enables computers to analyze images and video. Applications include object
+detection, image classification, medical-image support, quality inspection, document scanning, and
+assistance for autonomous machines.
+Speech recognition converts spoken language into text. It is used in dictation, captions, voice",0.544281542301178
+13,What is computer vision?,2,"Artificial Intelligence Study Guide
+Page 5 of 20
+Artificial Intelligence, Machine Learning, and Deep
+Learning
+Artificial Intelligence is the broad field of making computer systems perform tasks associated with
+intelligence. Machine learning (ML) is a subfield of AI in which systems learn patterns from data rather
+than relying only on manually written rules.
+Deep learning is a subfield of machine learning that uses neural networks with many layers. These",0.825971245765686
+13,What is computer vision?,3,"Artificial Intelligence Study Guide
+Page 20 of 20
+Glossary and Review Questions
+Artificial Intelligence: the broad field of creating computer systems that perform tasks associated with
+intelligence. Machine Learning: methods that learn patterns from data. Deep Learning: machine
+learning based on multi-layer neural networks.
+Dataset: a collection of examples. Model: a learned representation used to make predictions or",0.8515715599060059
+13,What is computer vision?,4,"Artificial Intelligence Study Guide
+Page 4 of 20
+Types and Approaches to AI
+Narrow AI is designed to perform a limited task or a related set of tasks. Examples include
+recommendation systems, face detection, translation tools, and voice assistants. Most AI used in
+everyday products today is narrow AI.
+Artificial General Intelligence (AGI) is a proposed type of AI that could learn and perform a wide range",0.8617814183235168
+13,What is computer vision?,5,"Artificial Intelligence Study Guide
+Page 7 of 20
+Algorithms and Learning Methods
+An algorithm is a defined procedure for solving a problem. In machine learning, an algorithm uses data
+to fit a model. The model then applies learned patterns to new inputs.
+Supervised learning uses labeled examples. For instance, a model can learn to classify emails as spam
+or not spam from messages that already have labels. Common supervised tasks include classification
+and regression.",0.8674958944320679
+14,What are the benefits of AI?,1,"Artificial Intelligence Study Guide
+Page 3 of 20
+What Makes a System Intelligent?
+People use the word intelligence to describe abilities such as learning, reasoning, adapting,
+understanding, planning, and communicating. An AI system may demonstrate one or several of these
+abilities without possessing human consciousness or human experiences.
+A system can be evaluated by the task it performs. For example, a spam filter classifies messages, a",0.4839460849761963
+14,What are the benefits of AI?,2,"Artificial Intelligence Study Guide
+Page 14 of 20
+AI in Business, Healthcare, and Education
+Businesses use AI to analyze sales patterns, forecast demand, support customer service, detect
+anomalies, and automate repetitive work. Successful deployment requires clear objectives and
+measurement of business value.
+In healthcare, AI research includes medical-image analysis, clinical decision support, patient",0.5350666046142578
+14,What are the benefits of AI?,3,"strengths and limitations of AI.
+Responsible progress requires collaboration among researchers, developers, educators, policymakers,
+organizations, and the public. Clear standards and ongoing evaluation can help ensure that AI benefits
+people.
+Think about it: Identify one real-world example of this topic and consider what could make its output
+inaccurate.",0.5405461192131042
+14,What are the benefits of AI?,4,"Artificial Intelligence Study Guide
+Page 13 of 20
+AI Applications in Everyday Life
+AI is embedded in many familiar services. Email platforms use classifiers to detect spam, streaming
+services recommend content, maps estimate travel routes, and online stores rank products that may
+interest customers.
+Smartphones use AI for camera enhancement, speech interfaces, predictive typing, translation, and",0.5529085397720337
+14,What are the benefits of AI?,5,"solve every problem.
+AI projects can be expensive to develop and maintain. Costs may include data collection, computing
+resources, expert staff, integration, monitoring, and updates. Environmental impacts and energy use
+may also need consideration.
+AI should be selected when it is appropriate for the problem. A simple rule, database query, or
+conventional program may be more reliable, affordable, and understandable than a machine-learning
+model.",0.5645718574523926
+15,What are the challenges of AI?,1,"solve every problem.
+AI projects can be expensive to develop and maintain. Costs may include data collection, computing
+resources, expert staff, integration, monitoring, and updates. Environmental impacts and energy use
+may also need consideration.
+AI should be selected when it is appropriate for the problem. A simple rule, database query, or
+conventional program may be more reliable, affordable, and understandable than a machine-learning
+model.",0.44635912775993347
+15,What are the challenges of AI?,2,"Artificial Intelligence Study Guide
+Page 18 of 20
+Limitations and Challenges of AI
+AI systems can make mistakes, especially when inputs differ from the data or conditions used during
+development. A model trained on one language, location, or environment may perform poorly in
+another.
+Some systems are difficult to explain. Complex models may provide useful predictions without making it
+easy to understand which factors drove a particular result. Explainability tools can help, but they do not",0.479248583316803
+15,What are the challenges of AI?,3,"strengths and limitations of AI.
+Responsible progress requires collaboration among researchers, developers, educators, policymakers,
+organizations, and the public. Clear standards and ongoing evaluation can help ensure that AI benefits
+people.
+Think about it: Identify one real-world example of this topic and consider what could make its output
+inaccurate.",0.48927944898605347
+15,What are the challenges of AI?,4,"Future systems may become more integrated with software tools and physical devices. This creates
+opportunities for productivity and accessibility, but also raises questions about control, accountability,
+employment, and safety.
+Preparing for an AI-enabled future involves digital literacy, critical thinking, domain knowledge,
+communication, and the ability to evaluate automated outputs. People will need to understand both the
+strengths and limitations of AI.",0.5205835700035095
+15,What are the challenges of AI?,5,"navigation system plans routes, and a speech recognizer converts spoken sounds into text. Each
+system is designed around a specific objective.
+AI performance depends on the quality of its data, the suitability of its algorithm, the computing
+resources available, and the way success is measured. A system that performs well in one setting may
+fail when the environment changes.
+It is important to distinguish successful task performance from human-like understanding. An AI model",0.5352938771247864
